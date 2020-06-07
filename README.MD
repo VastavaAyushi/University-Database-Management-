@@ -1,0 +1,1 @@
+Designed database of students enrolled in University using SQL server by assuming business rules, identifying functional dependencies in the database, creating Entity-Relationship diagram, and executing queries using Advanced SQL (bulk,go,joins,nested joins, aggregation).
